@@ -13,6 +13,7 @@ nav .brand-logo {
 
 h1 {
   color: #EEF4ED;
+  background-color: #77567a;
 }
 
 h1 span {
@@ -73,4 +74,8 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.date {
+  color: #77567a;
 }
