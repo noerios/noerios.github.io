@@ -1,9 +1,5 @@
 /* Custom Stylesheet */
-/**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
+
  */
 
 nav ul a,
@@ -17,7 +13,6 @@ h1 {
 }
 
 h1 span {
-  background-color: #77567a;
   padding-right: 20px;
   padding-left: 20px;
 }
